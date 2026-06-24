@@ -29,6 +29,8 @@ I'm currently a Software Engineer at **APT Solutions (London, UK)**, working rem
 
 **AURA** is the project I'm proudest of. It's an AI and blockchain social platform where memories become NFTs. I built the whole thing end to end: a React frontend, a Node backend, a Python AI microservice that models personality from user activity, and custom ERC 721 smart contracts in Solidity. The feed and marketplace run on a vector database for similarity based recommendations.
 
+🎥 See it in action: [Full project tour on YouTube](https://youtu.be/dJMZ7-DFtSY)
+
 Outside of work I've also shipped a hotel reservation platform, a secure contract vault with AES 256 encrypted storage, and a couple of live e-commerce stores.
 
 ### My GitHub stats
