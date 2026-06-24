@@ -1,6 +1,6 @@
 ## Hi, I'm Ashar 👋
 
-Full stack developer specializing in the MERN stack, with production experience building real products for clients in the UK and Pakistan. I recently finished my Computer Science degree at COMSATS University Islamabad and I'm currently looking for remote full time roles where I can build and ship things that actually get used.
+Full stack developer specializing in the MERN stack, with production experience building real products for clients in the UK and Pakistan. I'm currently looking for remote full time roles where I can build and ship things that actually get used.
 
 Most of my work sits where clean backends meet thoughtful frontends, with the occasional dive into AI and Web3.
 
